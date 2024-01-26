@@ -18,5 +18,5 @@ public class Member {
     private Long id; // DB 테이블의 'id' 컬럼과 매칭
 
     @Column(name = "name", nullable = false) // 5) name 이라는 not null 컬럼과 매핑
-    private String name; // DB 테이블의 'name' 컬럼과 매칭
+    private String name; // DB 테이블의 'name' 컬럼과 매핑
 }
