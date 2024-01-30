@@ -11,4 +11,5 @@ public class SpringBootDeveloperApplication {
         SpringApplication.run(SpringBootDeveloperApplication.class, args);
         // SpringApplication.run() 메서드 : 애플리케이션 실행
     }
+    
 }
