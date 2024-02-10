@@ -1,2 +1,2 @@
-# springboot-developer
+# 스프링부트3 블로그 만들기 프로젝트
 스프링부트3 TOY 프로젝트
