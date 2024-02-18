@@ -1,5 +1,5 @@
 # 💻 SpringBoot3 / JPA / ThymeLeaf : Blog CRUD
-...uploading...
+### ...updating...
 <br>
 
 - SpringBoot3 / JPA / ThymeLeaf : Blog CRUD 구현
