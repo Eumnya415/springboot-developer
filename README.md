@@ -27,17 +27,24 @@
 <br>
 
 ## 🔎 개발 상세
+### h2-console
+![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/72c7e965-888a-4068-841e-410c244cbdb9)
+
+
 
 <br>
 
 ## 🔎 구현 기능 소개
 ### 스프링 시큐리티 기능
 * 인증된 사용자만 들어갈 수 있는 페이지에서 /login으로 리다이렉트
-![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/d1b6cd95-a097-4e86-b0ca-a00f87e8d746)
+![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/566efe0d-dab3-4ae4-85b4-025867bede80) <br>
+
 
 * 회원가입 폼
-![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/011c7547-f63f-4eb3-b3a8-75614c757026)
+![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/011c7547-f63f-4eb3-b3a8-75614c757026) <br>
 
+* 암호화된 비밀번호 확인 <br>
+![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/95bb1200-8e4d-49a7-bb1e-e24678434fec)
 
 <br>
 
