@@ -35,6 +35,10 @@
 * 인증된 사용자만 들어갈 수 있는 페이지에서 /login으로 리다이렉트
 ![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/d1b6cd95-a097-4e86-b0ca-a00f87e8d746)
 
+* 회원가입 폼
+![image](https://github.com/Eumnya415/springboot-developer/assets/145963611/011c7547-f63f-4eb3-b3a8-75614c757026)
+
+
 <br>
 
 ## 🔎 개발 환경
