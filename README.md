@@ -92,9 +92,9 @@
 <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 <br>
 
-* 사용 언어 : Java
+* 사용 언어 : Java 17 
 * 개발 환경 : IntelliJ IDEA ,H2 Console
-* 라이브러리/프레임워크: SpringBoot3, Thymeleaf, JPA (Java Persistence API)
+* 라이브러리/프레임워크: SpringBoot 3.0.2, Thymeleaf, JPA (Java Persistence API)
 
 <br>
 
